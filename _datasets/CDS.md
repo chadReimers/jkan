@@ -2,7 +2,7 @@
 schema: default
 title: Consolidated Data Store (CDS) dataset
 organization: PLA
-notes: This is the complete 
+notes: This is the complete CDS Data store
 resources:
   - name: Air Monitoring Stations CSV
     url: 'http://data.phl.opendata.arcgis.com/datasets/1839b35258604422b0b520cbb668df0d_0.csv'
@@ -16,6 +16,6 @@ resources:
 license: 'https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
 category:
   - Education
-maintainer: Tim Wisniewski
-maintainer_email: tim@timwis.com
+maintainer: Chad 
+maintainer_email: 
 ---
