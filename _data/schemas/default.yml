@@ -16,6 +16,25 @@ dataset_fields:
     label: License
     form_template: form/license.html
     datajson: license
+    
+  - field_name: TransportType:
+    label: Transport Type
+    datajson: transportype
+  - field_name: IngestionType:
+    label: Ingestion Type
+    datajson: ingestiontype
+  - field_name: RefreshRate:
+    label: Refresh Rate
+    datajson: refreshrate
+  - field_name: datasize:
+    label: Refresh Rate
+    datajson: refreshrate
+  - field_name: techstack:
+    label: Tech Stack
+    datajson: techstack
+  - field_name: DatasetLocation
+    label: Dataset Location
+    datajson: datasetlocation
   - field_name: category
     label: Category
     form_template: form/category.html
