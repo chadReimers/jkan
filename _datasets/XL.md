@@ -24,7 +24,7 @@ datasize:
   - 30 TB
 techstack:
   - SQL Server
-DatasetLocation
+DatasetLocation:
   - Cloud based and available in BOS03
 Accessible from the following:
   - Athena
