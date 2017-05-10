@@ -1,52 +1,52 @@
-- name: Arts / Culture / History
+- name: Public
   logo: /img/categories/arts-culture-history.svg
   featured: true
-- name: Budget / Finance
+- name: Marketing
   logo: /img/categories/budget-finance.svg
   logo_credit: Renan Ferreira Santos from the Noun Project
   featured: true
-- name: Economy
+- name: Sales
   logo: /img/categories/economy.svg
   logo_credit: Vectors Market from the Noun Project
   featured: true
-- name: Education
+- name: Content
   logo: /img/categories/education.svg
   logo_credit: Sergey Patutin from the Noun Project
   featured: true
-- name: Elections / Politics
+- name: Product
   logo: /img/categories/elections-politics.svg
   logo_credit: Jean Soo from the Noun Project
   featured: true
-- name: Environment
+- name: Behavior
   logo: /img/categories/environment.svg
   featured: true
-- name: Food
+- name: Incident
   logo: /img/categories/food.svg
   logo_credit: Creative Stall from the Noun Project
   featured: true
-- name: Health / Human Services
+- name: System
   logo: /img/categories/health-human-services.svg
   logo_credit: Timothy Miller from the Noun Project
   featured: true
-- name: Parks / Recreation
+- name: Product
   logo: /img/categories/parks-recreation.svg
   logo_credit: Pipe Rosas Licht from the Noun Project
   featured: true
-- name: Planning / Zoning
+- name: Insitution
   logo: /img/categories/planning-zoning.svg
   featured: true
-- name: Public Safety
+- name: Instructor
   logo: /img/categories/public-safety.svg
   logo_credit: Rohith M S from the Noun Project
   featured: true
-- name: Real Estate / Land Records
+- name: Student
   logo: /img/categories/real-estate-land-records.svg
   featured: true
-- name: Transportation
+- name: Course
   logo: /img/categories/transportation.svg
   logo_credit: Dmitry Baranovskiy from the Noun Project
   featured: true
-- name: Uncategorized
+- name: Assignments
   logo: /img/categories/uncategorized.svg
   logo_credit: Edward Boatman from the Noun Project
   featured: true
