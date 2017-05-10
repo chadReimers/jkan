@@ -1,7 +1,7 @@
 ---
 schema: default
 title: XL Dataset 40 tables loaded into (CDS) dataset
-organization: PLA, XL
+organization: XL
 notes: This is a partial XL CDS Data store
 resources:
   - name: Air Monitoring Stations CSV
